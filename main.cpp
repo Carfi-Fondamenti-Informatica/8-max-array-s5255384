@@ -14,9 +14,10 @@ int main(){
         cin>>y;
         array[i]=y;
     }
+    
     result=Numeri(array, x);
-
     cout<<result<<endl;
-
+    
+    
     return 0;
 }
